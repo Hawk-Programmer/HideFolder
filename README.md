@@ -1,4 +1,4 @@
 # HideFolder
 Hide Folder on Windows
 
-Este Programa Oculta Pastas no Windows
+This program hides folders on Windows
